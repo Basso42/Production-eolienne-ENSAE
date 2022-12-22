@@ -22,4 +22,6 @@ Une première partie composée de la récupération, du nettoyage et de l'explor
 
 
 **Le notebook principal a été conçu pour être parfaitement reproductible depuis le SSP Cloud de l'INSEE**
+
+
 Le notebook *Donnees_vent* permet de récupérer manuellement les données téléchargées depuis le SSP Cloud.
