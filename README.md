@@ -17,3 +17,9 @@ En associant les deux premières bases de données, nous pouvons approximer l'é
 - Données RTE via API : https://data.rte-france.com/ 
 
 ## Organisation du notebook
+
+Une première partie composée de la récupération, du nettoyage et de l'exploration des données suivie d'une seconde portant sur la modélisation.
+
+
+**Le notebook principal a été conçu pour être parfaitement reproductible depuis le SSP Cloud de l'INSEE**
+Le notebook *Donnees_vent* permet de récupérer manuellement les données téléchargées depuis le SSP Cloud.
