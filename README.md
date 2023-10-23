@@ -17,7 +17,7 @@ Liens vers les données
 
 #### Organisation du notebook
 
-Le but de cet exercice était de d'avoir un notebook autonome, permettant de récupérer l'ensemble des résultats. 
+Le but de cet exercice était de d'avoir un notebook autonome, permettant de reproduire l'ensemble des résultats. 
 
 Une première partie composée de la récupération, du nettoyage et de l'exploration des données suivie d'une seconde portant sur la modélisation.
 
